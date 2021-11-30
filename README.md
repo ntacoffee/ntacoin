@@ -20,7 +20,7 @@ Make sure that you are properly connected to the mainnet with the following.
 truffle console --network mainnet
 ```
 
-Deploy the contract.
+Deploy the contract. (**DO NOT SEND THIS COMMAND!!**)
 
 ```
 truffle migrate --network mainnet
